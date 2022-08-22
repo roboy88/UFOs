@@ -59,7 +59,7 @@ UFO sightings with country filter
 
 Enter a country code press enter.
 The table data will be filtered on that country. image_name
-UFO sightings-Analysis Summary
+UFO sightings-Analysis Summary of Data
 Drawbacks:
 Analysis and Summary of Data 
 We have limited data available with data from countries like US and Canada only.
