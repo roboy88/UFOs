@@ -61,7 +61,7 @@ Enter a country code press enter.
 The table data will be filtered on that country. image_name
 UFO sightings-Analysis Summary
 Drawbacks:
-
+Analysis and Summary of Data 
 We have limited data available with data from countries like US and Canada only.
 The UFO sightings are pretty old and from the year 2010, that too from first 13 days only.
 There is no clear button to clear the search.
