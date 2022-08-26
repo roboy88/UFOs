@@ -42,37 +42,3 @@ In the filterTable() function, write code to filter the table based on the user 
 Create a variable for the filtered data that is equal to the data that builds the table. This variable will hold the updated table data based on the user input.
 Loop through the filters object and store the data that matches the filter values in the variable created in Step 15.
 Rebuild the table with the filtered data by passing the variable created in Step 15.
-UFO sightings-Analysis Results
-UFO sightings initial load image_name
-
-UFO sightings with Date filter
-
-Enter a date and press enter.
-The table data will be filtered on that date. image_name
-UFO sightings with Date and state filter
-
-Enter a date and state code and press enter.
-The table data will be filtered on that date and state. image_name
-UFO sightings with Date,State and Shape filter
-
-Enter a date,state code and shape press enter.
-The table data will be filtered on that date,state and shape. image_name
-UFO sightings with Date,State,Shape and City filter
-
-Enter a date,state code, shape and city press enter.
-The table data will be filtered on that date,state, shape and city. image_name
-UFO sightings with country filter
-
-Enter a country code press enter.
-The table data will be filtered on that country. image_name
-UFO sightings-Analysis Summary of Data
-Drawbacks:
-Analysis and Summary of Data 
-We have limited data available with data from countries like US and Canada only.
-The UFO sightings are pretty old and from the year 2010, that too from first 13 days only.
-There is no clear button to clear the search.
-The search is done by one at a time.
-Additional recommendations:
-
-We could have added a chart also for better presentation.
-instead of type in the values, we could have added a drop down and select from the list.
